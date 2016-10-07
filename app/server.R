@@ -1,3 +1,4 @@
+library(car)
 library(shiny)
 library(choroplethr)
 library(choroplethrZip)
