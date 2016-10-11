@@ -144,6 +144,8 @@
 #
 #
 shinyServer(function(input, output) {
+  
+ #####################start YounHyuk Cho############################
   output$distPlot1 <- renderPlot({
     if(input$bor==1) {
       endat<-mydata[which(mydata$Borough=="MANHATTAN"),]
@@ -348,7 +350,9 @@ shinyServer(function(input, output) {
     paste("Barplot of Energy Star Score")
   })
   
-
+#########################end YOUNHYUK CHO#########################
+      
+#########################start Jiani Tian##########################
   datasetInput <- reactive({
     switch(input$dataset,
            "2010" = water_complaints_10,
@@ -599,6 +603,8 @@ shinyServer(function(input, output) {
       theme(axis.title = element_text(family = "Trebuchet MS",colour = "#666666",face = "bold",size = 22))+
       theme_classic()
   })
+      
+###########################################end Jiani Tian#####################################
   
 })
 
