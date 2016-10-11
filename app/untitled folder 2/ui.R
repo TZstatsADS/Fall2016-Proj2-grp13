@@ -3,6 +3,7 @@
 #library(plotly)
 
 shinyUI(navbarPage("Environment in NYC",theme="style.css",
+#########################start YounHyuk Cho########################
                    tabPanel("Awareness",
                             sidebarLayout(
                               sidebarPanel(
@@ -120,6 +121,10 @@ shinyUI(navbarPage("Environment in NYC",theme="style.css",
                    
                   
 ),
+#####################end YounHyuk Cho####################
+
+#####################start Jiani Tian#######################
+                   
 tabPanel("General intuition",
          sidebarLayout(position="right",
                        sidebarPanel(
@@ -179,6 +184,7 @@ tabPanel("General intuition",
                        )
          ))
 
+#####################################end Jiani Tian#################################################
 )
 )
 
