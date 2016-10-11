@@ -18,6 +18,7 @@ library(ggmap)
 library(reshape2)
 
 ######################YOUNHYUK CHO#####################
+data(zipcode)
 energy<-read.csv("water_energy_2014_cleaned.csv",header=T)
 mydata<-merge(energy,zipcode,by.x="Zip.Code",by.y="zip")
 mydata$Zip.Code<-as.character(mydata$Zip.Code)
