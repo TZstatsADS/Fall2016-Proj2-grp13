@@ -20,7 +20,7 @@ In this second project of Applied Data Science, we will carry out *Exploratory D
 + **After your finish your shiny app, please replace the screenshot below with one from your own app.**
 ```
 
-![screenshot](doc/screenshot2.png)
+![screenshot](doc/screenshot1.png)
 
 The **learning goals** for this project is 
 - business intelligence for data science
@@ -29,7 +29,7 @@ The **learning goals** for this project is
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) 
 
-[Contribution Statement] Youn is in charge of the first part and Jiani is in charge of the second part. Peiran did the word cloud. All team members contributed to the GitHub repository and prepared the presentation. All team members approve our work presented in our GitHub repository including this contribution statement.Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+[Contribution Statement] Youn is in charge of the awareness part and Jiani is in charge of the general information of water complaints part. Peiran did the word cloud. All team members contributed to the GitHub repository and prepared the presentation. All team members approve our work presented in our GitHub repository including this contribution statement.Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
 proj/
