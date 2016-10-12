@@ -17,4 +17,4 @@ Team members: Youn Hyuk Cho, Jiani Tian, Peiran Fang
 
 Summary: In this project, we explored NYC environment situation mainly by two parts: the awareness of environment of citizens in NYC and the water complaints in NYC. 
 
-[Contribution Statement] Youn is in charge of the first part and Jiani is in charge of the seconde part. Peiran did the word cloud. All team members contributed to the GitHub repository and prepared the presentation. All team members approve our work presented in our GitHub repository including this contribution statement.
+[Contribution Statement] Youn is in charge of the first part and Jiani is in charge of the second part. Peiran did the word cloud. All team members contributed to the GitHub repository and prepared the presentation. All team members approve our work presented in our GitHub repository including this contribution statement.
