@@ -24,7 +24,7 @@ word_fre <- read.csv("311-request-frequency-2010_to_Present.csv", header=F)
 wordcloud_rep <- repeatable(wordcloud)
 install_github('arilamstein/choroplethrZip@v1.4.0')
 install_github("arilamstein/choroplethrCaCensusTract@v1.1.0")
-
+data(zipcode)
 
 ######################YOUNHYUK CHO#####################
 energy<-read.csv("water_energy_2014_cleaned.csv",header=T)
