@@ -1,10 +1,11 @@
 # Project: Open Data NYC - an RShiny app development project
 ### [Project Description](doc/project2_desc.md)
 
-Term: Fall 2016
+Project Link: https://jianitian.shinyapps.io/final_app/
+
 
 + Team # 13
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: Some tips about NYC environment
 + Team members
 	+ Youn Hyuk Cho	
 	+ Jiani Tian
